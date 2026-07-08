@@ -1,2 +1,7 @@
-// Template spec placeholder
-// Template spec placeholder
+import { test, expect } from '@playwright/test';
+
+
+test('Verify our first TC', async ({ page }) => {
+
+
+});
